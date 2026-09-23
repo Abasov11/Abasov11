@@ -21,9 +21,11 @@
 
 - [voice-sales-agent](https://github.com/Abasov11/voice-sales-agent) — голосовой агент исходящих звонков: квалифицирует лида и передаёт исход в CRM, кампании по расписанию из дашборда.
 - [chat-to-tasks-bot](https://github.com/Abasov11/chat-to-tasks-bot) — агент, который превращает поручения из рабочих Telegram-чатов в задачи Bitrix24; изоляция доступа держится на архитектуре, а не на промпте.
+- [telegram-agent-bridge](https://github.com/Abasov11/telegram-agent-bridge) — личный ИИ-ассистент в Telegram поверх headless Claude Code: несколько пользователей с изолированной памятью, ротация сессий без потери нити, гарды на ответ.
 
 **Контент и генерация**
 
+- [news-content-pipeline](https://github.com/Abasov11/news-content-pipeline) — конвейер новостного контента: карусели, вертикальные ролики с озвучкой и недельный дайджест на трёх языках, одобрение человеком перед публикацией.
 - [brand-post-engine](https://github.com/Abasov11/brand-post-engine) — конвейер брендовых промо-постов с автоматической вёрсткой обложек.
 - [floorplan-designer](https://github.com/Abasov11/floorplan-designer) — расстановка мебели по 3D-скану помещения, смета, DXF/PDF.
 
